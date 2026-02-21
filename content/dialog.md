@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 
+theme:
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[Дело о ворующих без выгоды - тезис]]
