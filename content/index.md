@@ -1,10 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Игровые дела
 ---
+[[1т уточнение тезиса|Дело об убиенных младенцах - тезис]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-Тест парам парарам... Парара 
-Еху
-[[dialog]]
+[[2т уточнение тезиса|Дело о ворующих без выгоды - тезис]]
